@@ -1,4 +1,4 @@
-# vue-vercel
+# tailwind dashboard
 
 ## Project setup
 ```
